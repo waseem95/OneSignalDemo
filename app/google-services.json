@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "264424715692",
+    "project_id": "one-signal-demo-5434d",
+    "storage_bucket": "one-signal-demo-5434d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264424715692:android:ca3f064b3da58b96a07609",
+        "android_client_info": {
+          "package_name": "com.example.onesignaldemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264424715692-46e24rq9r8l1tpd7r6tve0ee46e9smr4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onesignaldemo",
+            "certificate_hash": "28ef3c70fb6b9623c1a716efc410675c9b164cba"
+          }
+        },
+        {
+          "client_id": "264424715692-2cuhmcattkn8jeqk31vh31studf1eier.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBmVRCEN4uUQQX7w2g07S1G9lr3G6TDpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264424715692-2cuhmcattkn8jeqk31vh31studf1eier.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
